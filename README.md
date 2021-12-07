@@ -6,4 +6,7 @@
 : https://yumyum123.github.io/LetsgetitJavaScript/section03.html 
 
 * SECTION04 (계산기)  
-: https://github.com/yumyum123/LetsgetitJavaScript/blob/main/section04.html
+: https://yumyum123.github.io/LetsgetitJavaScript/section04.html
+
+* SECTION05 (숫자야구)
+: https://yumyum123.github.io/LetsgetitJavaScript/section05.html
