@@ -10,3 +10,6 @@
 
 * SECTION05 (숫자야구)
 : https://yumyum123.github.io/LetsgetitJavaScript/section05.html
+
+* SECTION06 (로또추첨기)
+: https://yumyum123.github.io/LetsgetitJavaScript/section06.html
