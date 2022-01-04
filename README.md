@@ -13,3 +13,6 @@
 
 * SECTION06 (로또추첨기)
 : https://yumyum123.github.io/LetsgetitJavaScript/section06.html
+
+* SECTION07 (가위바위보)  
+: https://yumyum123.github.io/LetsgetitJavaScript/section07.html 
