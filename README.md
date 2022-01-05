@@ -16,3 +16,6 @@
 
 * SECTION07 (가위바위보)  
 : https://yumyum123.github.io/LetsgetitJavaScript/section07.html 
+
+* SECTION08 (반응속도)  
+: https://yumyum123.github.io/LetsgetitJavaScript/section08.html 
