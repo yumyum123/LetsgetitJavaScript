@@ -79,6 +79,29 @@
     showBall(bonus, $bonus);
   },7000);
 
+    //while과 for문을 언제 써야 좋은가?
+    // while : 조건이 간단할때, 몇 번 반복할지 애매할때
+    // for : 조건이 복잡할때, 몇 번 박복할지 알때\
+
+    /* for(let i = candidate.length; i > 0; i--){ //이거는 candidate.length가 얼마나 될지 모르기때문에 while문을 쓰는게 나음
+        const random = Math.floor(Math.random() * i); 
+        const spliceArray = candidate.splice(random, 1); 
+        const value = spliceArray[0]; 
+        shuffle.push(value);
+    }*/
+
+    //map, slice는 원본(배열)이 변하지 않는다 
+    //splice : 첫인덱스, 갯수, 추가할 것들
+    //slice : 첫인덱스, 끝인덱스(-1 이렇게 쓰면 뒤에서부터 세는거임), 추가는 안됨
+    /*sort : arrat.sort((a,b) =>{
+        a - b //오름차순
+        b - a // 내림차순
+    });
+    arr.slice().sort((a, b) => a[0].chartCodeAt() - b[0].chartCodeAt()) -> 문자 오름차순
+    
+    array에서 sort하면 원본이 바뀌기 때문에 array.slice() 이렇게 빈칸을 넣어서 복사
+    array === arrat.slice() 하면 false가 나온다
+    */
   /*스코프, 클로저
   클로저 : 함수와 함수 외부 변수와의 관계
   let : 블록스코프, 가둬주는 역할 
