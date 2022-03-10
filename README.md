@@ -19,3 +19,6 @@
 
 * SECTION08 (반응속도)  
 : https://yumyum123.github.io/LetsgetitJavaScript/section08.html 
+
+* SECTION09 (틱택토)  
+: https://yumyum123.github.io/LetsgetitJavaScript/section09.html 
