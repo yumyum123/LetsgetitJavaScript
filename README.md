@@ -22,3 +22,6 @@
 
 * SECTION09 (틱택토)  
 : https://yumyum123.github.io/LetsgetitJavaScript/section09.html 
+
+* SECTION10 (txt rpg게임)  
+: https://yumyum123.github.io/LetsgetitJavaScript/section10.html 
